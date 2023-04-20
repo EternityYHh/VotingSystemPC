@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="votingSystem">
+    <output-path>$PROJECT_DIR$/../../votingServer</output-path>
+    <root id="archive" name="votingSystem.jar">
+      <element id="module-output" name="VotingSystemPC" />
+    </root>
+  </artifact>
+</component>
